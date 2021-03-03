@@ -1,0 +1,11 @@
+.nav-dropdown span{
+    width: 45px;
+  height: 45px;
+  margin-top: -1rem !important;
+  margin-right: 0.5rem;
+  margin-bottom: -0.75rem;
+  margin-left: -1rem;
+  line-height: 45px;
+  color: #9fabb8;
+  border-right: 1px solid #dbdee0;
+}
